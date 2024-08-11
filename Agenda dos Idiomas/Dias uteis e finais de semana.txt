@@ -1,0 +1,41 @@
+Segunda/Monday ------------------------------------
+- Japonês
+- Alemão
+- Francês
+- Inglês
+
+Terça/Tuesday ------------------------------------
+- Japonês
+- Alemão
+- Francês
+- Inglês
+
+Quarta/Wednesday ------------------------------------
+- Árabe
+- Polonês
+- Coreano
+- Turco
+
+Quinta/Thursday ------------------------------------
+- Chinês
+- Russo
+- Holandês
+- Italiano
+
+Sexta/Friday ------------------------------------
+- Japonês
+- Alemão
+- Francês
+- Inglês
+
+Sábado/Saturday ------------------------------------
+- Árabe
+- Polonês
+- Coreano
+- Turco
+
+Domingo/Sunday ------------------------------------
+- Chinês
+- Russo
+- Holandês
+- Italiano
